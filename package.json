@@ -22,6 +22,9 @@
     "react-scripts": "3.0.1",
     "reactstrap": "^8.0.0"
   },
+  "engines":{
+    "node": "10.16.2"
+  },
   "devDependencies": {},
   "eslintConfig": {
     "extends": "react-app"
@@ -37,8 +40,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "engine":{
-    "node": "10.16.2"
   }
 }
