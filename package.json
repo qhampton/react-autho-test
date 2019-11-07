@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "engine":{
+    "node": "10.16.2"
   }
 }
